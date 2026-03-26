@@ -1,0 +1,15 @@
+Team Meeting - October 15, 2025
+================================
+
+Attendees: Alice, Bob, Carol, David
+
+Agenda:
+1. Q3 results review
+2. Q4 planning
+3. New dashboard project (Streamlit!)
+
+Action Items:
+- Alice: Prepare Q4 forecast by Friday
+- Bob: Set up GitHub repo for dashboard
+- Carol: Draft requirements document
+- David: Research Streamlit deployment options

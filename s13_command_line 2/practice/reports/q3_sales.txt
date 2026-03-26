@@ -1,0 +1,11 @@
+Q3 Sales Report (Jul - Sep 2025)
+=================================
+
+Region          Revenue
+North America   $118,900
+Europe          $95,600
+Asia Pacific    $63,400
+Latin America   $41,200
+
+Total:          $319,100
+Status:         Below target (-3%)

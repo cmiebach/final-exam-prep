@@ -1,0 +1,10 @@
+To-Do List
+==========
+
+[x] Learn Python basics
+[x] Learn Pandas
+[x] Learn APIs
+[x] Learn OOP
+[ ] Learn the command line  <-- You are here!
+[ ] Build a Streamlit dashboard
+[ ] Deploy to the web

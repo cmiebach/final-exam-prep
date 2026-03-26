@@ -1,0 +1,11 @@
+Q2 Sales Report (Apr - Jun 2025)
+=================================
+
+Region          Revenue
+North America   $131,700
+Europe          $104,500
+Asia Pacific    $71,200
+Latin America   $45,900
+
+Total:          $353,300
+Status:         Above target (+12%)

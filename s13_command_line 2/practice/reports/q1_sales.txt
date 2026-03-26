@@ -1,0 +1,11 @@
+Q1 Sales Report (Jan - Mar 2025)
+=================================
+
+Region          Revenue
+North America   $125,400
+Europe          $98,200
+Asia Pacific    $67,800
+Latin America   $43,100
+
+Total:          $334,500
+Status:         Above target (+8%)

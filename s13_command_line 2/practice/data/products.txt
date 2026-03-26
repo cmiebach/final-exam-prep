@@ -1,0 +1,6 @@
+id,name,category,price
+1,Wireless Mouse,Electronics,29.99
+2,Ergonomic Chair,Office,299.99
+3,Cloud Storage Plan,Software,9.99
+4,Laptop Bag,Accessories,34.99
+5,Mechanical Keyboard,Electronics,89.99
